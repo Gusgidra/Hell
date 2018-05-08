@@ -295,6 +295,20 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="NubbersTest - 2018.05.08 at 22h 29m 47s.xml">
+      <configuration name="NubbersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NubbersTest - 2018.05.08 at 22h 32m 45s.xml">
+      <configuration name="NubbersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NubbersTest - 2018.05.08 at 22h 33m 00s.xml">
+      <configuration name="NubbersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NubbersTest - 2018.05.08 at 22h 33m 15s.xml">
+      <configuration name="NubbersTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
