@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1be1c0d3-164d-45c5-8fad-03b425d9a64c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/pikachu/ti/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pikachu/ti/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="1be1c0d3-164d-45c5-8fad-03b425d9a64c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
